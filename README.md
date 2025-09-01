@@ -33,7 +33,7 @@ user experience.While thinking about the security they have to make proper check
 
 expose users to attacks like CSRF, token theft, or account compromise.The development team gains user convenience but must invest effort into proper security measures to prevent OAuth-related attacks. Using OAuth 
 
-(like “Login with Google”) improves user convenience but increases security responsibility, because the app must carefully handle tokens and authorization flows to prevent attacks.
+(like Login with Google) improves user convenience but increases security responsibility, because the app must carefully handle tokens and authorization flows to prevent attacks.
 
 
 
